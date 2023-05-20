@@ -54,6 +54,6 @@ avg = get_class_average(students)
 print(avg)
 print(get_letter_grade(avg))
 
-BTW, output is:
+# BTW, output is:
 83.8666666667
 B
